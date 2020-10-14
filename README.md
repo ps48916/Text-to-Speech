@@ -5,8 +5,8 @@ The program use to convert all the text entered in the text box. whole program w
 
 # Modules
 As the whole program is Witten in Python3 there is few modules are used you should download them and install them before running the program.
-1.tkinter
-2.pyttsx3
+1. tkinter
+2. pyttsx3
  
-tkinter Module is used for the creation of the GUI of the program 
-Pyttsx3 Module is used for converting text in audio.
+* tkinter Module is used for the creation of the GUI of the program 
+* Pyttsx3 Module is used for converting text in audio.
